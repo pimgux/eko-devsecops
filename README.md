@@ -1,4 +1,4 @@
-Vulnerable Node by RoxsRoss
+Vulnerable Node by Pimgux
 ===============
 # Vulnerabilities
 
